@@ -1,0 +1,9 @@
+[
+    { "id": "1", "text": "My age is 35.", "isTrue": false },
+    { "id": "2", "text": "I'm currently working on a master's degree in software development.", "isTrue": true },
+    { "id": "3", "text": "I'm originally from Egypt and have lived in the U.S. for ten years.", "isTrue": true },
+    { "id": "4", "text": "I work as a selling agent in the real estate industry", "isTrue": false },
+    { "id": "5", "text": "My bachelor's degree is in computer science from Egypt.", "isTrue": true },
+    { "id": "6", "text": "I’m currently living in Boston, Massachusetts.", "isTrue": false }
+  ]  
+  

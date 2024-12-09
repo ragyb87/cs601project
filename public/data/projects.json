@@ -1,0 +1,55 @@
+[
+    {
+      "id": 1,
+      "title": "Global Auto Transportation",
+      "description": "Global Auto Transportation, established in 2006, offers comprehensive vehicle shipping services across the United States. They provide various transport options, including open and enclosed carriers, to accommodate diverse customer needs. Their services cater to individual clients, dealerships, and military personnel, ensuring safe and timely delivery of vehicles nationwide.",
+      "url": "https://www.globalautotransportation.com/",
+      "imageUrl": "/assets/global-auto-transportation.png"
+    },
+    {
+      "id": 2,
+      "title": "What is GIS?",
+      "description": "Esri, founded in 1969, is a global leader in geographic information system (GIS) technology. Their flagship product, ArcGIS, enables users to create, manage, analyze, and map all types of data, integrating location information with descriptive data to provide a comprehensive understanding of patterns and relationships. Esri's solutions are utilized across various industries, including business, government, and environmental sectors, to support decision-making and problem-solving.",
+      "url": "https://www.esri.com/en-us/what-is-gis/overview",
+      "imageUrl": "/assets/what-is-gis.png"
+    },
+    {
+      "id": 3,
+      "title": "Mapping Equity Across Industries",
+      "description": "Esri's Corporate Equity initiative leverages Geographic Information System (GIS) technology to advance equity and social justice across various industries. By integrating demographic, socioeconomic, and environmental data, Esri's solutions help organizations identify and address disparities in areas such as health, housing, transportation, and environmental resources. This location-based approach enables informed decision-making and resource allocation to promote equitable outcomes in communities. This webpage marks my first project at Esri, showcasing my contribution to advancing impactful initiatives.",
+      "url": "https://www.esri.com/en-us/what-is-gis/overview",
+      "imageUrl": "/assets/esri-image.png"
+    },
+    {
+      "id": 4,
+      "title": "The Esri Charlotte Regional Office",
+      "description": "The Esri Charlotte Regional Office, established in 1987, serves the Southeastern United States by providing Geographic Information System (GIS) solutions to businesses, utilities, and local governments. With a team of over 300 GIS professionals, the office offers services in sales, account management, consulting, training, and technical support. It hosts key events like the Esri Southeast User Conference and supports regional gatherings, fostering a community dedicated to leveraging geospatial technology for regional improvement.",
+      "url": "https://www.esri.com/en-us/what-is-gis/overview",
+      "imageUrl": "/assets/charlotte-office.png"
+    },
+    {
+      "id": 5,
+      "title": "Rapid Traffic School",
+      "description": "Rapid Traffic School offers a convenient and affordable solution for individuals seeking online traffic school courses. The website provides state-approved courses designed to help drivers dismiss traffic tickets, reduce points on their driving records, or qualify for insurance discounts. With a focus on user-friendly navigation and accessibility, Rapid Traffic School allows users to complete courses entirely online at their own pace, making it an ideal choice for busy individuals. The platform also emphasizes a stress-free learning experience with straightforward instructions and fast certificate delivery upon course completion.",
+      "url": "https://www.rapidtrafficschool.com/",
+      "imageUrl": "/assets/Rapid-Traffic-School.png"
+    },
+    {
+      "id": 6,
+      "title": "DOT Operating Authority",
+      "description": "DOT Operating Authority specializes in assisting commercial drivers and transportation businesses with essential registrations and filings required for legal operation. Their services encompass obtaining USDOT and MC numbers, Unified Carrier Registration (UCR), International Fuel Tax Agreement (IFTA) filings, and various state-specific permits such as the California Motor Carrier Permit (MCP). By managing the intricate paperwork and compliance requirements, DOT Operating Authority enables clients to focus on their core operations while ensuring adherence to regulatory standards.",
+      "url": "https://www.dotoperatingauthority.com/",
+      "imageUrl": "/assets/USDOT-Number.png"
+    },
+    {
+      "id": 7,
+      "title": "AMPM Auto Transport",
+      "description": "AMPM Auto Transport, established in 2010, is a nationwide vehicle shipping company that has safely delivered over 100,000 vehicles across the United States. They offer a comprehensive range of services, including open and enclosed car transport, door-to-door delivery, expedited shipping, and specialized options for exotic, military, and commercial vehicles. With a focus on customer satisfaction, AMPM provides round-the-clock support and ensures all shipments are fully insured, catering to diverse needs such as dealer swaps, corporate relocations, and auction auto shipping.",
+      "url": "https://www.ampmautotransport.com/",
+      "imageUrl": "/assets/Auto-Transportation-Car-Shipping.png"
+    }
+  ]
+
+
+  
+  
